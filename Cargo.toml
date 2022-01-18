@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "markov_ngram",
+    "markov_silhouette"
+]
